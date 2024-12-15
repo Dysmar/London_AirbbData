@@ -1,4 +1,3 @@
-![Banner](./bannerlondon.jpg.jpg)
 <img src="bannerlondon.jpg.jpg" width=100%/>
 
 
